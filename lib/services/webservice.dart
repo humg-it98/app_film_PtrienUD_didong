@@ -8,7 +8,7 @@ class Webservice {
 
   Future<List<Movie>> fetchMovies(String keyword) async {
 
-    final url = "http://www.omdbapi.com/?s=$keyword&apikey=YOURAPIKEY";
+    final url = "http://www.omdbapi.com/?s=$keyword&apikey=497847f1";
     final response = await http.get(url);
     if(response.statusCode == 200) {
 

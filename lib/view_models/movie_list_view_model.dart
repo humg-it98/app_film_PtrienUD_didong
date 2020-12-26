@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:movies_app/services/webservice.dart';
 import 'package:movies_app/view_models/movie_view_model.dart';
