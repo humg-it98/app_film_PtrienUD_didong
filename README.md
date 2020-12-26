@@ -22,5 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Lời cảm ơn
   
-Vì kiến thức bản thân còn hạn chế, trong quá trình học tập, hoàn thiện chuyên đề này em không tránh khỏi những sai sót. <br />Kính mong nhận được những ý kiến đóng góp từ thầy. 
+Vì kiến thức bản thân còn hạn chế, trong quá trình học tập, hoàn thiện chuyên đề này em không tránh khỏi những sai sót. Kính mong nhận được những ý kiến đóng góp từ thầy. <br />
   ✨From HUMG with love!✨
