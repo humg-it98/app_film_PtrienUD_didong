@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Tài liệu dành cho người mới bắt đầu!
 
 This project is a starting point for a Flutter application.
 
@@ -15,6 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### Hình ảnh demo
-![Ảnh app](/images/Screen0.jpg)
+## Hình ảnh demo
+
+![Ảnh app](/images/Screen0.jpg){ width=186 }{ height = 401 }
 ![Ảnh app](/images/Screen.jpg)
+
+## Lời cảm ơn
+  
+Vì kiến thức bản thân còn hạn chế, trong quá trình học tập, hoàn thiện chuyên đề này em không tránh khỏi những sai sót. <br />Kính mong nhận được những ý kiến đóng góp từ thầy. 
+  ✨From HUMG with love!✨
